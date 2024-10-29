@@ -1,0 +1,30 @@
+Archivos
+A280.tsp: 2579
+CH130.tsp: 6110
+PR144.tsp: 58537
+D18512.tsp: 645238
+U1060.tsp: 224094
+Fin_Archivos
+Parametros
+K: 5
+IteracionesLDM: 5000
+Tam_EntornoLDM: 8
+Disminucion_Tam_Entorno_DinLDM: 10
+Cada_CuantoLDM: 10
+IteracionesTABU: 5000
+Tam_EntornoATABU: 8
+Disminucion_Tam_Entorno_DinTABU: 10
+Cada_CuantoTABU: 10
+ParamEstancamientoTABU: 5
+TenenciaTabuTABU: 20
+ImpactoLargoPlazoTABU: 25
+OscilacionEstrategica: 50
+CarpetaLogs: .\logs\
+Semillas
+51214774
+12147745
+21477451
+26536583
+32653658
+Fin_Semillas
+EOF
